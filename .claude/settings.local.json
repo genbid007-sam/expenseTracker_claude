@@ -2,7 +2,10 @@
   "permissions": {
     "allow": [
       "WebFetch",
-      "websearch"
+      "Bash",
+      "Read(./.env)",
+      "Bash(npm run build)",
+      "mcp__puppeteer__*"
     ]
   }
 }
