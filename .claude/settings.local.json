@@ -7,5 +7,12 @@
       "Bash(npm run build)",
       "mcp__puppeteer__*"
     ]
+  },
+  "settings": {
+    
+  "api_key": "",
+  "base_url": "http://localhost:11434",
+  "auth_token": "ollama",
+  "default_model": "qwen2.5-coder:7b"
   }
 }
